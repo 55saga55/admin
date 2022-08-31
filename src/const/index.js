@@ -1,0 +1,2 @@
+
+export const RegistrationData = "RegistrationDara"
