@@ -1,10 +1,10 @@
 
 import {combineReducers} from "redux";
-import RegistrationForm from './AdminReducer'
+import admin from './AdminReducer'
 
 const mainReducer = combineReducers({
     
-RegistrationForm:RegistrationForm
+admin:admin
 
 })
 export default mainReducer
