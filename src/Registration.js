@@ -64,7 +64,7 @@ const  mySaveData = (e)=>{
 
     dispatch(PostUserData(formData))
 
-    // toast(y.data.message)
+    // toast(data.message)
 
     if(data1.isSucc)
     {

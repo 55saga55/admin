@@ -1,6 +1,6 @@
 // import { RegistrationData } from "../const";
 import axios from "axios"
-import {POSTDATAREQUEST,POSTDATASUC,POSTDATAERROR} from "../const/index"
+import { POSTDATAREQUEST, POSTDATASUC, POSTDATAERROR} from "../const/index"
 // export const  Registration1 = (payload) => ({
 //   type: RegistrationData,
 //   payload 
